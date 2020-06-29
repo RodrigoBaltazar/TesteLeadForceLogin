@@ -5,7 +5,7 @@ session_start();
 
 $username = $password = "";
 
-$link = mysqli_connect('localhost', 'futebol', 'soccer', 'blizzard');
+$link = mysqli_connect('localhost', 'login', 'password', 'database');
 
 /* check connection */
 if (mysqli_connect_errno()) {

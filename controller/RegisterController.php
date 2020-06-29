@@ -4,7 +4,7 @@ session_start();
 
 
 // tenta se conectar.
-$con = mysqli_connect('localhost', 'futebol', 'soccer', 'blizzard');
+$con = mysqli_connect('localhost', 'login', 'password', 'database');
 
 if ( mysqli_connect_errno() )
 {
