@@ -12,7 +12,7 @@ Entregáveis:
 - Estrutura de arquivos e diretórios (.zip ou .rar)
 - Dump da base de dados (.zip ou .SQL)
 - Instruções de uso (.txt)
-- Publicar o projeto no github (público)
+ok- Publicar o projeto no github (público)
 
 
 MYSQL:
