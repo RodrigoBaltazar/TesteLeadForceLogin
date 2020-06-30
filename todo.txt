@@ -9,9 +9,9 @@ ok- Alertas para login incorreto e login correto
 ok- Telas com Bootstrap (cabeçalho e formulário)
 
 Entregáveis:
-- Estrutura de arquivos e diretórios (.zip ou .rar)
-- Dump da base de dados (.zip ou .SQL)
-- Instruções de uso (.txt)
+ok- Estrutura de arquivos e diretórios (.zip ou .rar)
+ok- Dump da base de dados (.zip ou .SQL)
+ok- Instruções de uso (.txt)
 ok- Publicar o projeto no github (público)
 
 
